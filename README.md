@@ -1,6 +1,9 @@
 # crime_data_shiny_app
 a visualization exercise using R Shiny app
 
+Please note that this shiny app is not yet optimized for mobile users.
+
+
 Link to web app: [https://peter0083.shinyapps.io/crimedataviz/](https://peter0083.shinyapps.io/crimedataviz/)
 
 | Considerations                   | Reasoning                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
